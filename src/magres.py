@@ -29,7 +29,6 @@
 #   run on > 2.7 at your own risk.						
 
 import sys
-import matplotlib.pyplot as plt
 import numpy as np
 from nqr_parser import f32
 
